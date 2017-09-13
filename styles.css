@@ -1,0 +1,15 @@
+body {
+  background-color: blue;
+  color: yellow;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+p{
+  color: white;
+  font-size: 25px;
+}
+
+span{
+  color: cyan;
+}
